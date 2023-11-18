@@ -39,7 +39,6 @@
      - Using what they've learned to create a simple quiz game.
      - Questions are stored in a list.
      - Using `if-else` statements to check answers.
-     - Giving feedback based on the answers (e.g., "Correct!" or "Try again!").
    - The aim is to apply basic concepts in a fun, engaging way.
 
 #### 6. Conclusion and Homework
