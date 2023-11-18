@@ -11,6 +11,8 @@ Each lesson is in its own directory, named numerically (e.g., "01" for Lesson 01
 
 ## How to Use
 Navigate to the lesson directory you wish to start with, and follow the `plan.md` for a guided learning experience. Experiment with the code examples and snippets to reinforce your understanding.
+### Lessons
+- [Lesson 01](01/plan.md)
 
 ## Target Audience
 This repository is intended for individuals new to programming or those starting their journey with Python.
